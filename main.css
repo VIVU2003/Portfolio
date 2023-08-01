@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+/* Headings,texts*/
+.big-heading{
+    color: red;
+    font-size: 100px;
+}
+.small-heading{
+    color: rgb(212, 1, 1);
+    font-size: 60px;
+}
+.text{
+    color: rgb(144, 3, 3);
+    font-size: 1.5rem;
+}
+/* Margins */
+.content{
+    margin: 10% 50% 15% 5%;
+}
+.profile{
+    float: right;
+    margin: -550px 5% 0px 0px;
+    width: 45%;
+    /* height: 500px; */
+    border-radius: 50%;
+}
+.icon{
+    margin-right: 1%;
+}
+.footer{
+    margin: 0px 5%;
+}
+
